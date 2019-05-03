@@ -13,6 +13,10 @@
 
 [CSS Animation](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
 
+[CSS Flexbox Playground by Gabi](https://codepen.io/enxaneta/pen/adLPwv)
+
+
+
 
 ### Online Courses
 [FreeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/basic-css)
@@ -22,3 +26,7 @@
 [Mozilla Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 [CSS Reference](https://cssreference.io/)
+
+[Sass](https://sass-lang.com/)
+
+[CSS Dev Docs](https://devdocs.io/css/)
