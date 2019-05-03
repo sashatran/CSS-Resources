@@ -1,4 +1,4 @@
-# CSS Resources Compilation
+## CSS Resources Compilation
 
 ### Youtube
 [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI)
