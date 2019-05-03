@@ -16,17 +16,27 @@
 [CSS Flexbox Playground by Gabi](https://codepen.io/enxaneta/pen/adLPwv)
 
 
-
-
 ### Online Courses
-[FreeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/basic-css)
+[Web Basics - FreeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/basic-css)
 
 
 ### Docs 
 [Mozilla Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[Using CSS Animation - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 
 [CSS Reference](https://cssreference.io/)
 
 [Sass](https://sass-lang.com/)
 
 [CSS Dev Docs](https://devdocs.io/css/)
+
+[Animation - CSS Tricks](https://css-tricks.com/almanac/properties/a/animation/)
+
+[Flexbox - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+[CSS Grid - CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+[CSS Reference - Codrops](https://tympanus.net/codrops/css_reference/)
+
+
