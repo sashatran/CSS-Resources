@@ -46,6 +46,8 @@
 
 [Animation - CSS Tricks](https://css-tricks.com/almanac/properties/a/animation/)
 
+[The Only 2 CSS Properties You Should Animate *](https://www.youtube.com/watch?v=N5EW4HnF6FU)
+
 #### CSS Preprocessors
 
 [Sass](https://sass-lang.com/)
