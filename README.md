@@ -12,7 +12,7 @@
 
 ### Online Courses
 [Web Basics - FreeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/basic-css)
-
+[CSS Grid by Wes Bos](https://cssgrid.io/)
 
 ### Docs 
 
