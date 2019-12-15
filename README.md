@@ -7,7 +7,7 @@
 
 [SCSS Crash Course](https://www.youtube.com/watch?v=roywYSEPSvc)
 
-[CSS Animation](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
+[CSS Animation - DevTips](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
 
 
 ### Online Courses
