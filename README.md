@@ -54,6 +54,8 @@
 
 [CSS Animation Tutorial by TheNetNinja](https://www.youtube.com/watch?v=jgw82b5Y2MU&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5)
 
+[Animating with CSS Transitions by Kevin Powell](https://www.youtube.com/watch?v=Nloq6uzF8RQ)
+
 #### CSS Preprocessors
 
 [Sass](https://sass-lang.com/)
