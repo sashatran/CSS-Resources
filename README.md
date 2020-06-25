@@ -1,20 +1,25 @@
 ## CSS Resources Compilation
 
 ### Youtube
+#### CSS 
 [CSS Crash Course For Absolute Beginners By Traversy Media](https://youtu.be/yfoY53QXEnI)
 
 [HTML & CSS Tutorial for Beginners](https://www.youtube.com/watch?v=8gNrZ4lAnAw)
 
-[SCSS Crash Course](https://www.youtube.com/watch?v=roywYSEPSvc)
-
 [Learn HTML5 and CSS3 For Beginners - Crash Course by DevEd](https://www.youtube.com/watch?v=vQWlgd7hV4A)
 
+#### SCSS
+[SCSS Crash Course](https://www.youtube.com/watch?v=roywYSEPSvc)
+
+#### Grid
+[CSS Grid Layout Crash Course by Traversy Media](https://www.youtube.com/watch?v=jV8B24rSN5o)
+
+[CSS Grid by Wes Bos](https://cssgrid.io/)
 
 ### Online Courses
 [Web Basics - FreeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/basic-css)
 
-[CSS Grid by Wes Bos](https://cssgrid.io/)
-
+[Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
 
 ### Docs 
 
