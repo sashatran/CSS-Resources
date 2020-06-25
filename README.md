@@ -1,7 +1,7 @@
 ## CSS Resources Compilation
 
 ### Youtube
-#### CSS 
+#### CSS Basic
 [CSS Crash Course For Absolute Beginners By Traversy Media](https://youtu.be/yfoY53QXEnI)
 
 [HTML & CSS Tutorial for Beginners](https://www.youtube.com/watch?v=8gNrZ4lAnAw)
