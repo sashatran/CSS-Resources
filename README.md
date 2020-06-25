@@ -8,18 +8,27 @@
 
 [Learn HTML5 and CSS3 For Beginners - Crash Course by DevEd](https://www.youtube.com/watch?v=vQWlgd7hV4A)
 
-#### SCSS
+#### Sass / SCSS
 [SCSS Crash Course](https://www.youtube.com/watch?v=roywYSEPSvc)
+
+[Sass Tutorial for Beginners - CSS With Superpowers](https://www.youtube.com/watch?v=_a5j7KoflTs)
+
+#### Flexbox
+[Flexbox CSS In 20 Minutes by Traversy Media](https://www.youtube.com/watch?v=JJSoEo8JSnc)
+
+[Learn Flexbox in 15 Minutes by Web Dev Simplified](https://www.youtube.com/watch?v=fYq5PXgSsbE)
+
 
 #### Grid
 [CSS Grid Layout Crash Course by Traversy Media](https://www.youtube.com/watch?v=jV8B24rSN5o)
 
-[CSS Grid by Wes Bos](https://cssgrid.io/)
 
 ### Online Courses
 [Web Basics - FreeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/basic-css)
 
 [Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
+
+[CSS Grid by Wes Bos](https://cssgrid.io/)
 
 ### Docs 
 
