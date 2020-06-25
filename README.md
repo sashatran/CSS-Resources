@@ -18,10 +18,24 @@
 
 [Learn Flexbox in 15 Minutes by Web Dev Simplified](https://www.youtube.com/watch?v=fYq5PXgSsbE)
 
+[CSS Flexbox Tutorial by TheNetNinja](https://www.youtube.com/watch?v=Y8zMYaD1bz0&list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG)
+
 
 #### Grid
+
 [CSS Grid Layout Crash Course by Traversy Media](https://www.youtube.com/watch?v=jV8B24rSN5o)
 
+#### CSS Animations
+
+[The Only 2 CSS Properties You Should Animate *](https://www.youtube.com/watch?v=N5EW4HnF6FU)
+
+[CSS Animation - DevTips](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
+
+[CSS Animation Tutorial by TheNetNinja](https://www.youtube.com/watch?v=jgw82b5Y2MU&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5)
+
+[Animating with CSS Transitions by Kevin Powell](https://www.youtube.com/watch?v=Nloq6uzF8RQ)
+
+---
 
 ### Online Courses
 [Web Basics - FreeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/basic-css)
@@ -29,6 +43,8 @@
 [Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
 
 [CSS Grid by Wes Bos](https://cssgrid.io/)
+
+---
 
 ### Docs 
 
@@ -55,8 +71,6 @@
 
 [CSS Grid Garden](https://cssgridgarden.com/)
 
-[CSS Flexbox Tutorial by TheNetNinja](https://www.youtube.com/watch?v=Y8zMYaD1bz0&list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG)
-
 
 #### CSS Animations
 
@@ -64,13 +78,6 @@
 
 [Animation - CSS Tricks](https://css-tricks.com/almanac/properties/a/animation/)
 
-[The Only 2 CSS Properties You Should Animate *](https://www.youtube.com/watch?v=N5EW4HnF6FU)
-
-[CSS Animation - DevTips](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
-
-[CSS Animation Tutorial by TheNetNinja](https://www.youtube.com/watch?v=jgw82b5Y2MU&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5)
-
-[Animating with CSS Transitions by Kevin Powell](https://www.youtube.com/watch?v=Nloq6uzF8RQ)
 
 #### CSS Preprocessors
 
