@@ -1,6 +1,6 @@
 ## CSS Resources Compilation
 
-### Youtube
+### 📺 Youtube
 #### CSS Basic
 [CSS Crash Course For Absolute Beginners By Traversy Media](https://youtu.be/yfoY53QXEnI)
 
@@ -37,7 +37,7 @@
 
 ---
 
-### Online Courses
+### 💻 Online Courses
 [Web Basics - FreeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/basic-css)
 
 [Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
@@ -46,7 +46,7 @@
 
 ---
 
-### Docs 
+### 📄 Docs 
 
 #### CSS Reference
 
