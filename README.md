@@ -35,16 +35,15 @@
 
 [Animating with CSS Transitions by Kevin Powell](https://www.youtube.com/watch?v=Nloq6uzF8RQ)
 
----
 
 ### 💻 Online Courses
+
 [Web Basics - FreeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/basic-css)
 
 [Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
 
 [CSS Grid by Wes Bos](https://cssgrid.io/)
 
----
 
 ### 📄 Docs 
 
