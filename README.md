@@ -1,6 +1,6 @@
 ## CSS Resources Compilation
 
-## 📺 Youtube
+### 📺 Youtube
 
 #### CSS Basic
 [CSS Crash Course For Absolute Beginners By Traversy Media](https://youtu.be/yfoY53QXEnI)
@@ -45,9 +45,8 @@
 
 [CSS Grid by Wes Bos](https://cssgrid.io/)
 
-* * *
 
-### Docs 
+### 📄 Docs 
 
 #### CSS Reference
 
@@ -89,9 +88,4 @@
 
 #### Media Queries
 [mediaqueri.es](https://mediaqueri.es/)
-
-
-## Others 🚀
-
-Other resources
 
