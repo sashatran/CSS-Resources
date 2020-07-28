@@ -45,7 +45,7 @@
 [CSS Grid by Wes Bos](https://cssgrid.io/)
 
 
-### 📄 Docs 
+### Docs 
 
 #### CSS Reference
 
