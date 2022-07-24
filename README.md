@@ -89,3 +89,5 @@
 #### Media Queries
 [mediaqueri.es](https://mediaqueri.es/)
 
+#### Fluid Typography
+[Fluid Typography Calculator ]https://royalfig.github.io/fluid-typography-calculator/
