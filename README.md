@@ -9,6 +9,13 @@
 
 [Learn HTML5 and CSS3 For Beginners - Crash Course by DevEd](https://www.youtube.com/watch?v=vQWlgd7hV4A)
 
+[Kevin Powell Youtube](https://www.youtube.com/@KevinPowell)
+
+[Designing Intrinsic Layouts by Jen Simmons](https://www.youtube.com/watch?v=AMPKmh98XLY&ab_channel=AnEventApart)
+
+[Intrinsic CSS with Container Queries and Units with Miriam Suzanne](https://www.youtube.com/watch?v=uumZV98zHt8&t=684s&ab_channel=JamstackTV)
+
+
 #### Sass / SCSS
 [SCSS Crash Course](https://www.youtube.com/watch?v=roywYSEPSvc)
 
@@ -46,7 +53,7 @@
 [CSS Grid by Wes Bos](https://cssgrid.io/)
 
 
-### 📄 Docs 
+### 📄 Docs, Articles
 
 #### CSS Reference
 
@@ -98,5 +105,8 @@
 
 #### Modern CSS
 [SmolCSS by Stephanie Eckles](https://smolcss.dev/)
+
 [ModernCSS by Stephanie Eckles](https://moderncss.dev/)
+
+[Intrinsic Web Design by Stephanie Eckles](https://moderncss.dev/contextual-spacing-for-intrinsic-web-design/)
 
