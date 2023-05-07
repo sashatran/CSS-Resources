@@ -99,9 +99,14 @@
 #### Media Queries
 [mediaqueri.es](https://mediaqueri.es/)
 
+---
+
+### Modern CSS
+
 #### Fluid Typography
 [Fluid Typography Calculator](https://royalfig.github.io/fluid-typography-calculator/)
 
+[Utopia](https://utopia.fyi/)
 
 #### Container Queries
 [CSS container queries by Ahmad Shaheed](https://ishadeed.com/article/container-queries-are-finally-here/)
