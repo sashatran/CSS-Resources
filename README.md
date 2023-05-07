@@ -45,17 +45,6 @@
 
 ---
 
-
-### 💻 Online Courses
-
-[Web Basics - FreeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/basic-css)
-
-[Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
-
-[CSS Grid by Wes Bos](https://cssgrid.io/)
-
----
-
 ### 📄 Docs, Articles
 
 #### CSS Reference
@@ -117,4 +106,15 @@
 [ModernCSS by Stephanie Eckles](https://moderncss.dev/)
 
 [Intrinsic Web Design by Stephanie Eckles](https://moderncss.dev/contextual-spacing-for-intrinsic-web-design/)
+
+---
+
+### 💻 Online Courses
+
+[Web Basics - FreeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/basic-css)
+
+[Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
+
+[CSS Grid by Wes Bos](https://cssgrid.io/)
+
 
