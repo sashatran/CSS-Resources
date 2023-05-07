@@ -90,4 +90,13 @@
 [mediaqueri.es](https://mediaqueri.es/)
 
 #### Fluid Typography
-[Fluid Typography Calculator ]https://royalfig.github.io/fluid-typography-calculator/
+[Fluid Typography Calculator](https://royalfig.github.io/fluid-typography-calculator/)
+
+
+#### Container Queries
+[CSS container queries by Ahmad Shaheed](https://ishadeed.com/article/container-queries-are-finally-here/)
+
+#### Modern CSS
+[SmolCSS by Stephanie Eckles](https://smolcss.dev/)
+[ModernCSS by Stephanie Eckles](https://moderncss.dev/)
+
