@@ -43,6 +43,8 @@
 
 [Animating with CSS Transitions by Kevin Powell](https://www.youtube.com/watch?v=Nloq6uzF8RQ)
 
+---
+
 
 ### 💻 Online Courses
 
@@ -52,6 +54,7 @@
 
 [CSS Grid by Wes Bos](https://cssgrid.io/)
 
+---
 
 ### 📄 Docs, Articles
 
